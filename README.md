@@ -24,7 +24,7 @@ The 30 features are the mean, standard error and "worst" (largest) value of 10 c
 
 ## c. GitHub repository link
 
-<PASTE YOUR GITHUB REPO URL HERE>
+
 
 Repository layout:
 
@@ -44,7 +44,7 @@ project-folder/
     |-- metrics_summary.csv
 ```
 
-Live app: <PASTE YOUR STREAMLIT APP URL HERE>
+Live app: https://ml-assignment2-breast-cancer-mmjdcymc7fnvhsyicsofbi.streamlit.app/
 
 ## d. Models used
 
@@ -60,7 +60,7 @@ Metrics on the 114-row test set (positive class = benign):
 
 Hyperparameters: Logistic Regression (`max_iter=1000`), Decision Tree (`max_depth=5`), KNN (`k=7`), Gaussian Naive Bayes (defaults), SVM (RBF kernel, `C=1.0`).
 
-### Observations
+### Hypothesis
 
 | ML Model Name | Observation about model performance |
 |---|---|
